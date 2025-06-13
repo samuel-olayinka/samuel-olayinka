@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi there, I'm Samuel Olayinka – Data Analyst
 
-<!--
-**samuel-olayinka/samuel-olayinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skills in turning raw data into meaningful insights using tools like *Excel, Power BI, SQL, and Python*. My mission is to help businesses make better decisions using data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- 🎓 Background in [🎓 B.Sc. in Health Education – National Open University of Nigeria (NOUN)
+📘 N.C.E. in Integrated Science/Biology – Adeyemi College of Education, Ondo
+- 📊 Focused on Data Analytics, Business Intelligence, and Visualization
+- 🧰 Tools I Use: Excel, Power BI, SQL, Python.
+- 📍 Currently working on real-world data projects and capstone case studies
+- 🌱 Always learning new skills and frameworks for better storytelling with data
+
+---
+
+## 🧰 My Toolkit
+
+| Skillset | Tools |
+|----------|-------|
+| Data Analysis | Excel, Power BI, Python (Pandas, NumPy), SQL |
+| Visualization | Power BI, Matplotlib|
+| Data Cleaning | Excel, Python (Pandas), Power Query |
+| Business Insights | KPI Tracking, Dashboards, Reporting |
+| Others | GitHub, Google Sheets, Canva |
+
+---
+
+## 📁 Featured Projects
+
+### 🏡 ABJC Real Estate Sales Dashboard
+Visual summary of sales metrics across countries and product types  
+🔗 [View Project Repo](](https://github.com/Samuel-Olayinka/ABJC-Real-Estate-Sales)
+ 
+🛠 Tools:Excel
+
+### 📞 MTN Customer Churn Analysis
+Analyzed churn risk using Python and created a dashboard in Power BI  
+🔗 [View Project Repo]((https://github.com/Samuel-Olayinka/MTN-Churn-Project)
+🛠 Tools:  Power BI
+
+### 🥤 Coca-Cola Sales Performance
+Interactive Excel dashboard tracking regional product performance  
+🔗 [View Project Repo]((https://github.com/Samuel-Olayinka/CocaCola-Sales-Dashboard) 
+🛠 Tools: Excel, Pivot Tables, Charts
+
+---
+
+## 📈 GitHub Stats
+
+![samuel-olayinka](](https://github-readme-stats.vercel.app/api?username=Samuel-Olayinka&show_icons=true&theme=gruvbox)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/olayinka-samuel-15962534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📧 Email: Thoughtsbyyinka@gmail.com
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+> 🚀 "Data is the new oil, but insight is the engine."
