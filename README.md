@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skil
 
 | Skillset | Tools |
 |----------|-------|
-| Data Analysis | Excel, Power BI, Python (Pandas, NumPy), SQL |
+| Data Analysis | Excel, Power BI, Python (Pandas), SQL |
 | Visualization | Power BI, Matplotlib|
 | Data Cleaning | Excel, Python (Pandas), Power Query |
 | Business Insights | KPI Tracking, Dashboards, Reporting |
