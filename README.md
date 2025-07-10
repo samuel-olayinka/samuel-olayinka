@@ -42,7 +42,7 @@ Analyzed churn risk using Python and created a dashboard in Power BI
 
 ### 🥤 Coca-Cola Sales Performance
 Interactive Excel dashboard tracking regional product performance  
-🔗 [View Project Repo]((https://github.com/Samuel-Olayinka/CocaCola-Sales-Dashboard) 
+🔗 [View Project Repo]((https://github.com/samuel-olayinka/Coca-cola-Retail-Dashboard) 
 🛠 Tools: Excel, Pivot Tables, Charts
 
 ---
