@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skil
 
 ### 🏡 ABJC Real Estate Sales Dashboard
 Visual summary of sales metrics across countries and product types  
-🔗 [View Project Repo](](https://github.com/Samuel-Olayinka/ABJC-Real-Estate-Sales)
+🔗 [View Project Repo](](https://github.com/samuel-olayinka/ABJC-Real-Estate-Sales-Dashboard-Excel-)
  
 🛠 Tools:Excel
 
