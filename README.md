@@ -46,7 +46,13 @@ Interactive Excel dashboard tracking regional product performance
 🛠 Tools: Excel, Pivot Tables, Charts
 
 ---
+### Superstore Sales Analysis
+Interactive Excel and Power BI dashboard analyzing Superstore sales data.
 
+[View Project Repository](https://github.com/samuel-olayinka/Superstore-Sales-Analysis)
+
+*Tools:* Excel, Power BI, Data Cleaning, Visualization
+---
 ## 📈 GitHub Stats
 
 ![samuel-olayinka](](https://github-readme-stats.vercel.app/api?username=Samuel-Olayinka&show_icons=true&theme=gruvbox)
