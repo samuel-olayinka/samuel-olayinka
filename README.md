@@ -37,7 +37,7 @@ Visual summary of sales metrics across countries and product types
 
 ### 📞 MTN Customer Churn Analysis
 Analyzed churn risk using Python and created a dashboard in Power BI  
-🔗 [View Project Repo]((https://github.com/Samuel-Olayinka/MTN-Churn-Project)
+🔗 [View Project Repo](https://github.com/samuel-olayinka/MTN-Customer-Churn-Analysis-Power-BI-Dashboard)
 🛠 Tools:  Power BI
 
 ### 🥤 Coca-Cola Sales Performance
