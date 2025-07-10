@@ -37,7 +37,7 @@ Visual summary of sales metrics across countries and product types
 
 ### 📞 MTN Customer Churn Analysis
 Analyzed churn risk using Python and created a dashboard in Power BI  
-🔗 [View Project Repo](https://github.com/samuel-olayinka/MTN-Customer-Churn-Analysis-Power-BI-Dashboard)
+🔗 [View Project Repo] (https://github.com/samuel-olayinka/MTN-Customer-Churn-Analysis-Power-BI-Dashboard)
 🛠 Tools:  Power BI
 
 ### 🥤 Coca-Cola Sales Performance
@@ -49,6 +49,7 @@ Interactive Excel dashboard tracking regional product performance
 ### 🛒 Superstore Sales Analysis
 
 Interactive Excel and Power BI dashboard analyzing Superstore sales data.
+
 🔗 [View Project Repo] (https://github.com/samuel-olayinka/Superstore-Sales-Analysis---PowerBI-Dashboard)
 🛠 *Tools:* Excel, Power BI, Data Cleaning, Visualization
 
@@ -56,6 +57,7 @@ Interactive Excel and Power BI dashboard analyzing Superstore sales data.
 
 ### 🦠 Diseases Outbreak Analysis
 Excel and Power BI project analyzing disease outbreak trends, locations, and affected populations.
+
 🔗 [View Project Repository] (https://github.com/samuel-olayinka/Diseases-Outbreak-Patients-Report-Excel-Dashboard)
 🛠 *Tools:* Excel, Power BI, Data Cleaning, Geographic Mapping, Charts
 
