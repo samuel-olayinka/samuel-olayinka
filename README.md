@@ -48,6 +48,7 @@ Interactive Excel dashboard tracking regional product performance
 ---
 ### Superstore Sales Analysis
 Interactive Excel and Power BI dashboard analyzing Superstore sales data.
+https://github.com/samuel-olayinka/Superstore-Sales-Analysis---PowerBI-Dashboard
 
 [View Project Repository](https://github.com/samuel-olayinka/Superstore-Sales-Analysis)
 
