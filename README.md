@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skil
 
 - 🎓 Background in [🎓 B.Sc. in Health Education – National Open University of Nigeria (NOUN)
 📘 N.C.E. in Integrated Science/Biology – Adeyemi College of Education, Ondo
-- 📊 Focused on Data Analytics, Business Intelligence, and Visualization
+- 📊 Focused on Data Analytics, Business Intelligence, Insight Analyst and Visualization
 - 🧰 Tools I Use: Excel, Power BI, SQL, Python.
 - 📍 Currently working on real-world data projects and capstone case studies
 - 🌱 Always learning new skills and frameworks for better storytelling with data
@@ -67,12 +67,24 @@ Power BI project analyzing Alzheimer's Disease using a brain MRI image dataset.
 
 🔗 [View Project Repository] 
 https://github.com/samuel-olayinka/Alzheimer-s-Disease-Power-Bi-Dashboard/edit/main/README.md
+
+🛠 *Tools:* Power BI
+
+---
+
 ## 📈 GitHub Stats
 
 ![samuel-olayinka](](https://github-readme-stats.vercel.app/api?username=Samuel-Olayinka&show_icons=true&theme=gruvbox)
 
 ---
+### 🦠 Business Sales Tracker
+This *Business Sales Tracker* is a Google Sheets tool designed to help business owners *record, monitor, and analyze sales performance in real time*.
 
+🔗 [View Project Repository] 
+https://github.com/samuel-olayinka/Business-Sales-Tracker-Google-Sheet/edit/main/README.md
+🛠 *Tools:* Google Sheet
+
+---
 ## 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/olayinka-samuel-15962534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
