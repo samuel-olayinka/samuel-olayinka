@@ -62,6 +62,11 @@ Excel and Power BI project analyzing disease outbreak trends, locations, and aff
 🛠 *Tools:* Excel, Power BI, Data Cleaning, Geographic Mapping, Charts
 
 ---
+### 🦠 Alzheimer Diseases PowerBI Analysis
+Power BI project analyzing Alzheimer's Disease using a brain MRI image dataset.
+
+🔗 [View Project Repository] 
+https://github.com/samuel-olayinka/Alzheimer-s-Disease-Power-Bi-Dashboard/edit/main/README.md
 ## 📈 GitHub Stats
 
 ![samuel-olayinka](](https://github-readme-stats.vercel.app/api?username=Samuel-Olayinka&show_icons=true&theme=gruvbox)
