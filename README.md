@@ -71,6 +71,16 @@ https://github.com/samuel-olayinka/Alzheimer-s-Disease-Power-Bi-Dashboard/edit/m
 🛠 *Tools:* Power BI
 
 ---
+### 📊 Financial Overview Dashboard
+
+This project presents a *Financial Overview Dashboard* built using *Power BI*. The dashboard provides insights into revenue, profit, cost, and transaction performance across different financial services.
+
+🔗 [View Project Repository] 
+https://github.com/samuel-olayinka/Financial-Overview-Dashboard-Power-BI/blob/main/README.md
+
+🛠 *Tools:* Power BI
+
+---
 
 ## 📈 GitHub Stats
 
