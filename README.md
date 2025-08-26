@@ -81,6 +81,16 @@ https://github.com/samuel-olayinka/Financial-Overview-Dashboard-Power-BI/blob/ma
 🛠 *Tools:* Power BI
 
 ---
+### 🍫 Chocolate Sales Insights Dashboard
+
+This project showcases a *Chocolate Sales Insights Dashboard* built with *Power BI*. The dashboard provides a comprehensive view of sales performance, product distribution, regional trends, and salesperson contributions
+🔗 [View Project Repository] 
+
+https://github.com/samuel-olayinka/Chocolate-Sales-Insights-Dashboard/blob/main/README.md
+
+🛠 *Tools:* Power BI
+
+---
 
 ## 📈 GitHub Stats
 
