@@ -112,6 +112,13 @@ This project presents a 15-year analytical overview of BMW global sales performa
 https://github.com/samuel-olayinka/BMW-Sales-Trend-Insight-Dashboard
 🛠 *Tools:* Power BI, Excel
 
+### 🛍️ Shopify Sales Analysis Dashboard
+An interactive Shopify Sales Analysis Dashboard built to analyze key sales metrics, customer behavior, product performance, and revenue distribution.
+
+🔗 [View Project Repository] 
+https://github.com/samuel-olayinka/Shopify-Sales-Analysis-PowerBI-Dashboard
+🛠 *Tools:* Power BI
+
 
 
 ## 🤝 Let’s Connect
