@@ -107,6 +107,13 @@ https://github.com/samuel-olayinka/Business-Sales-Tracker-Google-Sheet/edit/main
 ---
 ### 🚗 BMW Sales Trend & Insight Dashboard (2010–2024)
 This project presents a 15-year analytical overview of BMW global sales performance 
+
+🔗 [View Project Repository] 
+https://github.com/samuel-olayinka/BMW-Sales-Trend-Insight-Dashboard
+🛠 *Tools:* Power BI, Excel
+
+
+
 ## 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/olayinka-samuel-15962534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
