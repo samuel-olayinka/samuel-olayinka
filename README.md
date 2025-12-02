@@ -35,11 +35,14 @@ Visual summary of sales metrics across countries and product types
  
 🛠 Tools:Excel
 
+---
+
 ### 📞 MTN Customer Churn Analysis
 Analyzed churn risk using Python and created a dashboard in Power BI  
 🔗 [View Project Repo] (https://github.com/samuel-olayinka/MTN-Customer-Churn-Analysis-Power-BI-Dashboard)
 🛠 Tools:  Power BI
 
+---
 ### 🥤 Coca-Cola Sales Performance
 Interactive Excel dashboard tracking regional product performance  
 🔗 [View Project Repo]((https://github.com/samuel-olayinka/Coca-cola-Retail-Dashboard) 
@@ -112,6 +115,7 @@ This project presents a 15-year analytical overview of BMW global sales performa
 https://github.com/samuel-olayinka/BMW-Sales-Trend-Insight-Dashboard
 🛠 *Tools:* Power BI, Excel
 
+---
 ### 🛍️ Shopify Sales Analysis Dashboard
 An interactive Shopify Sales Analysis Dashboard built to analyze key sales metrics, customer behavior, product performance, and revenue distribution.
 
@@ -119,6 +123,7 @@ An interactive Shopify Sales Analysis Dashboard built to analyze key sales metri
 https://github.com/samuel-olayinka/Shopify-Sales-Analysis-PowerBI-Dashboard
 🛠 *Tools:* Power BI
 
+---
 ### ☕ Coffee Sales Trends & Customer Insights Dashboard
 Power BI | Data Analysis | Time-of-Day Sales Insights.
 
@@ -126,6 +131,7 @@ Power BI | Data Analysis | Time-of-Day Sales Insights.
 https://github.com/samuel-olayinka/Coffee-Sales-Trends-Customer-Insights-PowerBI-Dashboard/blob/main/README.md
 🛠 *Tools:* Power BI
 
+---
 ## 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/olayinka-samuel-15962534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
