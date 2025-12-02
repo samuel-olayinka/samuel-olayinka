@@ -119,7 +119,12 @@ An interactive Shopify Sales Analysis Dashboard built to analyze key sales metri
 https://github.com/samuel-olayinka/Shopify-Sales-Analysis-PowerBI-Dashboard
 🛠 *Tools:* Power BI
 
+### ☕ Coffee Sales Trends & Customer Insights Dashboard
+Power BI | Data Analysis | Time-of-Day Sales Insights.
 
+🔗 [View Project Repository] 
+https://github.com/samuel-olayinka/Coffee-Sales-Trends-Customer-Insights-PowerBI-Dashboard/blob/main/README.md
+🛠 *Tools:* Power BI
 
 ## 🤝 Let’s Connect
 
