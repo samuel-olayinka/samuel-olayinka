@@ -29,6 +29,18 @@ Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skil
 
 ## 📁 Featured Projects
 
+### 📊 Personal Finance Analysis Dashboard (Excel + Power Query)
+This project is an interactive *Personal Finance Dashboard* built in *Microsoft Excel* using *Power Query* for data cleaning and transformation.
+
+🔗 [View Project Repo](]https://github.com/samuel-olayinka/Personal-Finance-Analysis-Excel-Dashboard
+
+ 🛠 Tools Used
+* Microsoft Excel
+* Power Query (ETL Process)
+* Pivot Tables & Pivot Charts
+* Excel Data Modeling
+
+---
 ### 🏡 ABJC Real Estate Sales Dashboard
 Visual summary of sales metrics across countries and product types  
 🔗 [View Project Repo](](https://github.com/samuel-olayinka/ABJC-Real-Estate-Sales-Dashboard-Excel-)
