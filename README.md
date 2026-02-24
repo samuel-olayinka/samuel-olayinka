@@ -41,6 +41,10 @@ This project is an interactive *Personal Finance Dashboard* built in *Microsoft 
 * Excel Data Modeling
 
 ---
+
+### ☕ Café Sales Performance Dashboard (Excel + Power Query)
+The dashboard provides insights into product performance, revenue distribution, branch comparisons, and customer trends for business decision-making.
+
 ### 🏡 ABJC Real Estate Sales Dashboard
 Visual summary of sales metrics across countries and product types  
 🔗 [View Project Repo](](https://github.com/samuel-olayinka/ABJC-Real-Estate-Sales-Dashboard-Excel-)
