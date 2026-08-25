@@ -28,8 +28,12 @@ Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skil
 ---
 
 ## 📁 Featured Projects
+### Candy Distributor Sales, Profitability & Target Performance Analysis
+This project analyzes sales performance, profitability, and target achievement for a US Candy Distributor.
+🔗 [View Project Repo](]https://github.com/samuel-olayinka/US-Candy-Distributor-Sales-Profitability-Target-Performance-Analysis-/edit/main/README.md
 
-### 📊 Personal Finance Analysis Dashboard (Excel + Power Query)
+---
+###  Personal Finance Analysis Dashboard (Excel + Power Query)
 This project is an interactive *Personal Finance Dashboard* built in *Microsoft Excel* using *Power Query* for data cleaning and transformation.
 
 🔗 [View Project Repo](]https://github.com/samuel-olayinka/Personal-Finance-Analysis-Excel-Dashboard
@@ -42,7 +46,7 @@ This project is an interactive *Personal Finance Dashboard* built in *Microsoft 
 
 ---
 
-### ☕ Café Sales Performance Dashboard (Excel + Power Query)
+###  Café Sales Performance Dashboard (Excel + Power Query)
 The dashboard provides insights into product performance, revenue distribution, branch comparisons, and customer trends for business decision-making.
 
 🔗 [View Project Repo](]https://github.com/samuel-olayinka/Cafe-Sales-Performance-Dashboard
@@ -51,7 +55,7 @@ The dashboard provides insights into product performance, revenue distribution, 
 * Power Query (Data Transformation)
 * Pivot Tables & Charts
 ---
-### 🏡 ABJC Real Estate Sales Dashboard
+###  ABJC Real Estate Sales Dashboard
 Visual summary of sales metrics across countries and product types  
 🔗 [View Project Repo](](https://github.com/samuel-olayinka/ABJC-Real-Estate-Sales-Dashboard-Excel-)
  
@@ -59,19 +63,19 @@ Visual summary of sales metrics across countries and product types
 
 ---
 
-### 📞 MTN Customer Churn Analysis
+###  MTN Customer Churn Analysis
 Analyzed churn risk using Python and created a dashboard in Power BI  
 🔗 [View Project Repo] (https://github.com/samuel-olayinka/MTN-Customer-Churn-Analysis-Power-BI-Dashboard)
 🛠 Tools:  Power BI
 
 ---
-### 🥤 Coca-Cola Sales Performance
+###  Coca-Cola Sales Performance
 Interactive Excel dashboard tracking regional product performance  
 🔗 [View Project Repo]((https://github.com/samuel-olayinka/Coca-cola-Retail-Dashboard) 
 🛠 Tools: Excel, Pivot Tables, Charts
 
 ---
-### 🛒 Superstore Sales Analysis
+###  Superstore Sales Analysis
 
 Interactive Excel and Power BI dashboard analyzing Superstore sales data.
 
@@ -80,14 +84,14 @@ Interactive Excel and Power BI dashboard analyzing Superstore sales data.
 
 ---
 
-### 🦠 Diseases Outbreak Analysis
+###  Diseases Outbreak Analysis
 Excel and Power BI project analyzing disease outbreak trends, locations, and affected populations.
 
 🔗 [View Project Repository] (https://github.com/samuel-olayinka/Diseases-Outbreak-Patients-Report-Excel-Dashboard)
 🛠 *Tools:* Excel, Power BI, Data Cleaning, Geographic Mapping, Charts
 
 ---
-### 🧠 Alzheimer Diseases PowerBI Analysis
+###  Alzheimer Diseases PowerBI Analysis
 Power BI project analyzing Alzheimer's Disease using a brain MRI image dataset.
 
 🔗 [View Project Repository] 
@@ -106,7 +110,7 @@ https://github.com/samuel-olayinka/Financial-Overview-Dashboard-Power-BI/blob/ma
 🛠 *Tools:* Power BI
 
 ---
-### 🍫 Chocolate Sales Insights Dashboard
+###  Chocolate Sales Insights Dashboard
 
 This project showcases a *Chocolate Sales Insights Dashboard* built with *Power BI*. The dashboard provides a comprehensive view of sales performance, product distribution, regional trends, and salesperson contributions
 🔗 [View Project Repository] 
@@ -130,7 +134,7 @@ https://github.com/samuel-olayinka/Business-Sales-Tracker-Google-Sheet/edit/main
 🛠 *Tools:* Google Sheet
 
 ---
-### 🚗 BMW Sales Trend & Insight Dashboard (2010–2024)
+###  BMW Sales Trend & Insight Dashboard (2010–2024)
 This project presents a 15-year analytical overview of BMW global sales performance 
 
 🔗 [View Project Repository] 
@@ -138,7 +142,7 @@ https://github.com/samuel-olayinka/BMW-Sales-Trend-Insight-Dashboard
 🛠 *Tools:* Power BI, Excel
 
 ---
-### 🛍️ Shopify Sales Analysis Dashboard
+###  Shopify Sales Analysis Dashboard
 An interactive Shopify Sales Analysis Dashboard built to analyze key sales metrics, customer behavior, product performance, and revenue distribution.
 
 🔗 [View Project Repository] 
@@ -146,7 +150,7 @@ https://github.com/samuel-olayinka/Shopify-Sales-Analysis-PowerBI-Dashboard
 🛠 *Tools:* Power BI
 
 ---
-### ☕ Coffee Sales Trends & Customer Insights Dashboard
+###  Coffee Sales Trends & Customer Insights Dashboard
 Power BI | Data Analysis | Time-of-Day Sales Insights.
 
 🔗 [View Project Repository] 
@@ -156,7 +160,7 @@ https://github.com/samuel-olayinka/Coffee-Sales-Trends-Customer-Insights-PowerBI
 ---
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/olayinka-samuel-15962534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+-  [LinkedIn](https://www.linkedin.com/in/olayinka-samuel-15962534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 Email: Thoughtsbyyinka@gmail.com
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
