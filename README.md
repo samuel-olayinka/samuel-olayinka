@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Samuel Olayinka – Data Analyst
 
-Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skills in turning raw data into meaningful insights using tools like *Excel, Power BI, SQL, and Python*. My mission is to help businesses make better decisions using data.
+Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skills in turning raw data into meaningful insights using tools like *Excel, Power BI, SQL. My mission is to help businesses make better decisions using data.
 
 ---
 
