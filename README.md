@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skil
 - 🎓 Background in [🎓 B.Sc. in Health Education – National Open University of Nigeria (NOUN)
 📘 N.C.E. in Integrated Science/Biology – Adeyemi College of Education, Ondo
 - 📊 Focused on Data Analytics, Business Intelligence, Insight Analyst and Visualization
-- 🧰 Tools I Use: Excel, Power BI, SQL, Python.
+- 🧰 Tools I Use: Excel, Power BI, SQL.
 - 📍 Currently working on real-world data projects and capstone case studies
 - 🌱 Always learning new skills and frameworks for better storytelling with data
 
@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skil
 
 | Skillset | Tools |
 |----------|-------|
-| Data Analysis | Excel, Power BI, Python (Pandas), SQL |
-| Visualization | Power BI, Matplotlib|
-| Data Cleaning | Excel, Python (Pandas), Power Query |
+| Data Analysis | Excel, Power BI, SQL |
+| Visualization | Power BI|
+| Data Cleaning | Excel, Power Query |
 | Business Insights | KPI Tracking, Dashboards, Reporting |
 | Others | GitHub, Google Sheets, Canva |
 
