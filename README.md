@@ -121,12 +121,12 @@ https://github.com/samuel-olayinka/Chocolate-Sales-Insights-Dashboard/blob/main/
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![samuel-olayinka](](https://github-readme-stats.vercel.app/api?username=Samuel-Olayinka&show_icons=true&theme=gruvbox)
 
 ---
-### 📖 Business Sales Tracker
+###  Business Sales Tracker
 This *Business Sales Tracker* is a Google Sheets tool designed to help business owners *record, monitor, and analyze sales performance in real time*.
 
 🔗 [View Project Repository] 
@@ -158,7 +158,7 @@ https://github.com/samuel-olayinka/Coffee-Sales-Trends-Customer-Insights-PowerBI
 🛠 *Tools:* Power BI
 
 ---
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 -  [LinkedIn](https://www.linkedin.com/in/olayinka-samuel-15962534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 Email: Thoughtsbyyinka@gmail.com
@@ -166,4 +166,4 @@ https://github.com/samuel-olayinka/Coffee-Sales-Trends-Customer-Insights-PowerBI
 
 ---
 
-> 🚀 "Data is the new oil, but insight is the engine."
+>  "Data is the new oil, but insight is the engine."
