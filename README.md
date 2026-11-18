@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m a passionate *Data Analyst* with strong skil
 ## 📁 Featured Projects
 ### Candy Distributor Sales, Profitability & Target Performance Analysis
 This project analyzes sales performance, profitability, and target achievement for a US Candy Distributor.
-🔗 [View Project Repo](]https://github.com/samuel-olayinka/US-Candy-Distributor-Sales-Profitability-Target-Performance-Analysis-/edit/main/README.md
+🔗 [View Project Repo](https://github.com/samuel-olayinka/US-Candy-Distributor-Sales-Profitability-Target-Performance-Analysis-
 
 ---
 ###  Personal Finance Analysis Dashboard (Excel + Power Query)
